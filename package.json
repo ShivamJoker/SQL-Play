@@ -39,7 +39,7 @@
     "react-native-iap": "^8.3.0",
     "react-native-material-menu": "^2.0.0",
     "react-native-quick-sqlite": "^4.0.1",
-    "react-native-reanimated": "^2.5.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-safe-area-context": "^4.3.1",
     "react-native-sensitive-info": "^6.0.0-alpha.9",
     "react-native-share": "^7.6.6",
